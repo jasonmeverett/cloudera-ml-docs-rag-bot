@@ -10,8 +10,8 @@ entries:
     long_description_html: |
         TK
     image_path: >-
-      https://github.infra.cloudera.com/raw/jev/cloudera-ml-docs-rag-bot/main/images/rag-bot.png
+      https://github.com/jasonmeverett/cloudera-ml-docs-rag-bot/blob/main/resources/rag-bot.png
     tags:
       - RAG
-    git_url: https://github.infra.cloudera.com/jev/cloudera-ml-docs-rag-bot
+    git_url: https://github.com/jasonmeverett/cloudera-ml-docs-rag-bot
     is_prototype: true
