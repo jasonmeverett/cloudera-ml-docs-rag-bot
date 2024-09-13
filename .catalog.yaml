@@ -1,0 +1,17 @@
+name: cloudera-ml-rag-chat-bot
+
+entries:
+  - title: Rag Bot!
+    label: cml-ft-studio
+    short_description: |
+        RAG Bot for the CML Docs Domain.
+    long_description: |
+        TK
+    long_description_html: |
+        TK
+    image_path: >-
+      https://github.infra.cloudera.com/raw/jev/cloudera-ml-docs-rag-bot/main/images/rag-bot.png
+    tags:
+      - RAG
+    git_url: https://github.infra.cloudera.com/jev/cloudera-ml-docs-rag-bot
+    is_prototype: true
